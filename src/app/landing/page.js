@@ -1,8 +1,8 @@
 'use client';
 
 import { Heart, Sparkles, Edit, Eye, Users } from 'lucide-react';
-import Link from 'link';
 import { motion } from 'framer-motion';
+import Link from 'next/link';
 
 export default function LandingPage() {
   const features = [
